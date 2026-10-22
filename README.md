@@ -18,7 +18,7 @@ This was part of a community service project that aided an upcycling business in
 - **Key Challenge**: Bridge the gap between a familiar spreadsheet interface and an analytics-ready data structure, ensuring that the system remained accessible to users without compromising its analytical potential.
 
 
-# [Project 3: Hotel Booking Cancellation Prediction Model](In progress)
+# Project 3: Hotel Booking Cancellation Prediction Model (In progress)
 
 This is a project I am currently doing as part of my course. 
 - Data was obtained from Antonio et al. (2019), which provides data on hotel bookings, including booking characteristics, customer information, and reservation outcomes.
