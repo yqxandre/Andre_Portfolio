@@ -1,6 +1,6 @@
 # Andre's Portfolio
 
-# [Project 1: Modelling Student Productivity: A Statistical Analysis of Digital Habits and Academic Behavior]()
+# [Project 1: Modelling Student Productivity: A Statistical Analysis of Digital Habits and Academic Behavior](https://github.com/yqxandre/Statistical-Analysis-of-Digital-Habits-and-Academic-Behavior.git)
 
 This is a project I did as part of my course, where we did a statistical analysis of a Digital Habits and Academic Behavior dataset
 - Data was taken from a Digital Habits and Academic Behavior found on Kaggle
