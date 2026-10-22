@@ -4,7 +4,9 @@
 
 This is a project I did as part of my course, where we did a statistical analysis of a Digital Habits and Academic Behavior dataset
 - Data was taken from a Digital Habits and Academic Behavior found on Kaggle
-- Models Used: Linear Regression, Lasso
+- **Models Used**: Linear Regression, Lasso
+- **Report includes**: Exploratory Data Analysis (EDA), Regression Modelling, Model Diagnostics, Regularization & Variable Selection
+- **Key Findings**: Identified study hours, sleep duration, phone usage, stress levels, attendance, and focus as key predictors retained by LASSO. The analysis also highlighted the limitations of interpreting statistical relationships without considering the underlying data-generating process.
 
 
 # [Project 2: Product & Sales Inventory Tracker](https://docs.google.com/spreadsheets/d/1K-aLP9Bv1lPVUMEAizF1JCNbUB08VfmQGapdy2KvTxY/edit?gid=321918386#gid=321918386)
